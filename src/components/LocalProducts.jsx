@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 export const localProducts = [
   {
     id: 'uuidv4()',
-    image: '/src/img/collection.jpg',
+    image: '/assets/img/collection.jpg',
     category: 'Women Clothing',
     subcategory: 'Formal',
     rating:"5.0",
@@ -13,7 +13,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/hover collection.jpg',
+    image: '/assets/img/hover collection.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"4.5",
@@ -23,7 +23,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women3.jpg',
+    image: '/assets/img/women3.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -33,7 +33,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/fashion.jpg',
+    image: '/assets/img/fashion.jpg',
     category: 'Women Clothing',
     subcategory: 'Formal',
     rating:"4.1",
@@ -43,7 +43,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women1.jpg',
+    image: '/assets/img/women1.jpg',
     category: 'Women Clothing',
     subcategory: 'Formal',
     rating:"3.2",
@@ -53,7 +53,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women2.jpg',
+    image: '/assets/img/women2.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"4.3",
@@ -63,7 +63,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women4.jpg',
+    image: '/assets/img/women4.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -73,7 +73,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women5.jpg',
+    image: '/assets/img/women5.jpg',
     category: 'Women Clothing',
     subcategory: 'Formal',
     rating:"3.0",
@@ -83,7 +83,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women6.jpg',
+    image: '/assets/img/women6.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -93,7 +93,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women7.jpg',
+    image: '/assets/img/women7.jpg',
     category: 'Women Clothing',
     subcategory: 'Formal',
     rating:"4.8",
@@ -103,7 +103,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women8.jpg',
+    image: '/assets/img/women8.jpg',
     category: 'Women Clothing',
     subcategory: 'Formal',
     rating:"4.0",
@@ -113,7 +113,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women9.jpg',
+    image: '/assets/img/women9.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -123,7 +123,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women10.jpg',
+    image: '/assets/img/women10.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"2.7",
@@ -133,7 +133,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women11.jpg',
+    image: '/assets/img/women11.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"4.5",
@@ -143,7 +143,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/women12.jpg',
+    image: '/assets/img/women12.jpg',
     category: 'Women Clothing',
     subcategory: 'Casual',
     rating:"4.3",
@@ -153,7 +153,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men4.jpg',
+    image: '/assets/img/men4.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"3.5",
@@ -163,7 +163,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men3.jpg',
+    image: '/assets/img/men3.jpg',
     category: 'Men Clothing',
     subcategory: 'Formal',
     rating:"4.5",
@@ -173,7 +173,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men5.jpg',
+    image: '/assets/img/men5.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -183,7 +183,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men1.jpg',
+    image: '/assets/img/men1.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"2.4",
@@ -193,7 +193,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men2.jpg',
+    image: '/assets/img/men2.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -203,7 +203,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men6.jpg',
+    image: '/assets/img/men6.jpg',
     category: 'Men Clothing',
     subcategory: 'Formal',
     rating:"5.0",
@@ -213,7 +213,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men7.jpg',
+    image: '/assets/img/men7.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -223,7 +223,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men8.jpg',
+    image: '/assets/img/men8.jpg',
     category: 'Men Clothing',
     subcategory: 'Formal',
     rating:"4.5",
@@ -233,7 +233,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men9.jpg',
+    image: '/assets/img/men9.jpg',
     category: 'Men Clothing',
     subcategory: 'Formal',
     rating:"3.4",
@@ -243,7 +243,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men10.jpg',
+    image: '/assets/img/men10.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -253,7 +253,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men11.jpg',
+    image: '/assets/img/men11.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"5.0",
@@ -263,7 +263,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men12.jpg',
+    image: '/assets/img/men12.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"2.9",
@@ -273,7 +273,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men13.jpg',
+    image: '/assets/img/men13.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"2.5",
@@ -283,7 +283,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men15.jpg',
+    image: '/assets/img/men15.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:" 5.0",
@@ -293,7 +293,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/men14.jpg',
+    image: '/assets/img/men14.jpg',
     category: 'Men Clothing',
     subcategory: 'Casual',
     rating:"3.5",
@@ -303,7 +303,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/girls2.jpg',
+    image: '/assets/img/girls2.jpg',
     category: 'Jewelry',
     subcategory: 'Watches',
     title: 'Elegant Watch',
@@ -313,7 +313,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/girls1.jpg',
+    image: '/assets/img/girls1.jpg',
     category: 'Jewelry',
     subcategory: 'Watches',
     rating:"4.5",
@@ -323,7 +323,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/earings4.jpg',
+    image: '/assets/img/earings4.jpg',
     category: 'Jewelry',
     subcategory: 'Earrings',
     rating:"4.6",
@@ -333,7 +333,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/earings3.jpg',
+    image: '/assets/img/earings3.jpg',
     category: 'Jewelry',
     subcategory: 'Earrings',
     rating:"4.9",
@@ -343,7 +343,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/earings2.jpg',
+    image: '/assets/img/earings2.jpg',
     category: 'Jewelry',
     subcategory: 'Earrings',
     rating:"5.0",
@@ -353,7 +353,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/necklace1.jpg',
+    image: '/assets/img/necklace1.jpg',
     category: 'Jewelry',
     subcategory: 'Necklaces',
     rating:"5.0",
@@ -363,7 +363,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/necklance3.jpg',
+    image: '/assets/img/necklance3.jpg',
     category: 'Jewelry',
     subcategory: 'Necklaces',
     rating:"4.0",
@@ -373,7 +373,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/necklace2.jpg',
+    image: '/assets/img/necklace2.jpg',
     category: 'Jewelry',
     subcategory: 'Necklaces',
     rating:"5.0",
@@ -383,7 +383,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/rings1.jpg',
+    image: '/assets/img/rings1.jpg',
     category: 'Jewelry',
     subcategory: 'Rings',
     rating:"2.0",
@@ -393,7 +393,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/ring2.jpg',
+    image: '/assets/img/ring2.jpg',
     category: 'Jewelry',
     subcategory: 'Rings',
     rating:"3.4",
@@ -403,7 +403,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/ring4.jpg',
+    image: '/assets/img/ring4.jpg',
     category: 'Jewelry',
     subcategory: 'Rings',
     rating:"4.0",
@@ -413,7 +413,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/ring7.jpg',
+    image: '/assets/img/ring7.jpg',
     category: 'Jewelry',
     subcategory: 'Rings',
     rating:"5.6",
@@ -423,7 +423,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/ring6.jpg',
+    image: '/assets/img/ring6.jpg',
     category: 'Jewelry',
     subcategory: 'Rings',
     rating:"4.5",
@@ -433,7 +433,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/ring5.jpg',
+    image: '/assets/img/ring5.jpg',
     category: 'Jewelry',
     subcategory: 'Rings',
     rating:"3.9",
@@ -443,7 +443,7 @@ export const localProducts = [
   },
   {
     id: uuidv4(),
-    image: '/src/img/earings5.jpg',
+    image: '/assets/img/earings5.jpg',
     category: 'Jewelry',
     subcategory: 'Earrings',
     rating:"3.2",

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { motion, useAnimation, useInView } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
-import landing1 from "../img/landingone.jpg";
+import landing1 from "./assets/img/landingone.jpg";
 import landing2 from "../img/scroll.jpg";
 import landing3 from '../img/landingthree.jpg';
 import landing4 from '../img/screen.jpg';
