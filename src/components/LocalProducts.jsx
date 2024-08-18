@@ -349,22 +349,22 @@ export const localProducts = [
   {
     id: uuidv4(),
     image: girls2,
-    category: 'Girls Clothing',
-    subcategory: 'Casual',
+    category: 'Accessories',
+    subcategory: 'Watches',
     rating: "4.5",
-    title: 'Cotton Skirt',
+    title: 'Elegant Golden Pearl Watch',
     price: 234.00,
-    description: 'A cute cotton skirt for casual outings.'
+    description: 'A sophisticated golden pearl watch that adds a touch of elegance to any outfit.'
   },
   {
     id: uuidv4(),
     image: girls1,
-    category: 'Girls Clothing',
-    subcategory: 'Formal',
+    category: 'Accessories',
+    subcategory: 'Watches',
     rating: "5.0",
-    title: 'Floral Dress',
+    title: 'Floral Enamel Watch',
     price: 345.00,
-    description: 'A floral dress for special occasions.'
+    description: 'A stylish floral enamel watch perfect for making a statement on special occasions.'
   },
   {
     id: uuidv4(),

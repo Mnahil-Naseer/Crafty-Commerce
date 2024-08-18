@@ -16,7 +16,7 @@ const Footer = () => {
   };
 
   return (
-    <footer id="Footer" className="relative py-9 bg-gray-600 text-black">
+    <footer id="Footer" className="relative py-9 mt-14 bg-gray-600 text-black">
       <div className="absolute inset-0">
         <img src={hero} alt="Background" className="w-full h-full object-cover opacity-40" />
         <div className="absolute inset-0 opacity-40"></div>
