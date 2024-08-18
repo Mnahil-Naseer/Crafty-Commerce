@@ -7,7 +7,7 @@ export const ProductProvider = ({ children }) => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    setProducts(localProducts); // Load products from local data
+    setProducts(localProducts); 
   }, []);
 
   return (
