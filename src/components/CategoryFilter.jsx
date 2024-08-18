@@ -9,7 +9,7 @@ const CategoryFilter = ({
   const categories = [
     { name: 'Women Clothing', subcategories: ['Formal', 'Casual'] },
     { name: 'Men Clothing', subcategories: ['Formal', 'Casual'] },
-    { name: 'Jewelry', subcategories: ['Watches', 'Earrings', 'Necklaces', 'Rings'] },
+    { name: 'Accessories', subcategories: ['Watches', 'Earrings', 'Necklaces', 'Rings'] },
   ];
 
   const handleCategoryChange = (e) => {
