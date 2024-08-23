@@ -2,7 +2,8 @@
 
 Crafty Commerce is a modern e-commerce platform built using React.js and Tailwind CSS.This platform provides users with a seamless shopping experience, featuring dynamic animations, a responsive design, and robust functionalities for managing products, categories, and the shopping cart.
 
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/7a3d908d-fb3d-417b-af7c-474e74b7e373">
+[![ZenCodeZ](https://github.com/user-attachments/assets/cbb17ac2-e922-42bf-a72e-50f975b7063a)](https://crafty-commerce-eight.vercel.app/)
+
 
 ## Features
 
