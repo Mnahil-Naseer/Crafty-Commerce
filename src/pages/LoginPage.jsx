@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
-import bg from '../img/Elegant Online Shopping Logo Template.jpg';
+import bg from '../assets/img/Elegant Online Shopping Logo Template.jpg';
 
 const LoginPage = () => {
   const [username, setUsername] = useState('');

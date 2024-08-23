@@ -1,13 +1,13 @@
 import { Link } from "react-router-dom";
 import { motion, useAnimation, useInView } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
-import landing1 from "../img/landingone.jpg";
-import landing2 from "../img/scroll.jpg";
-import landing3 from '../img/landingthree.jpg';
-import landing4 from '../img/screen.jpg';
-import landing5 from '../img/landing5.jpg';
-import landing6 from "../img/landing6.jpg";
-import landing from "../img/landing1.jpg";
+import landing1 from "../assets/img/landingone.jpg";
+import landing2 from "../assets/img/scroll.jpg";
+import landing3 from '../assets/img/landingthree.jpg';
+import landing4 from '../assets/img/screen.jpg';
+import landing5 from '../assets/img/landing5.jpg';
+import landing6 from "../assets/img/landing6.jpg";
+import landing from "../assets/img/landing1.jpg";
 const images = [landing, landing1, landing2, landing3, landing4, landing5, landing6];
 
 const Hero = () => {

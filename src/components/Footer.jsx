@@ -1,8 +1,8 @@
 import { useState, useRef } from "react";
 import { Link } from "react-router-dom";
 import { FaFacebook, FaInstagram, FaLinkedin, FaPinterest } from "react-icons/fa";
-import bg from '../img/Elegant Online Shopping Logo Template.jpg';
-import hero from '../img/bghero.jpg';
+import bg from '../assets/img/Elegant Online Shopping Logo Template.jpg';
+import hero from '../assets/img/bghero.jpg';
 
 const Footer = () => {
   const [isSubmitted, setIsSubmitted] = useState(false);
@@ -16,7 +16,7 @@ const Footer = () => {
   };
 
   return (
-    <footer id="Footer" className="relative py-9 bg-gray-600 text-black">
+    <footer id="Footer" className="relative py-9 mt-14 bg-gray-600 text-black">
       <div className="absolute inset-0">
         <img src={hero} alt="Background" className="w-full h-full object-cover opacity-40" />
         <div className="absolute inset-0 opacity-40"></div>

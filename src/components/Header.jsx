@@ -2,7 +2,7 @@ import { useContext, useEffect, useState, useRef } from "react";
 import { SidebarContext } from "../contexts/SidebarContext";
 import { CartContext } from "../contexts/CartContext";
 import { Link, useNavigate } from "react-router-dom";
-import Logo from "../img/logo.png";
+import Logo from "../assets/img/logo.png";
 import { BsBag } from "react-icons/bs";
 import { FaRegCircleUser } from "react-icons/fa6";
 import { motion, useAnimation, useInView } from "framer-motion";
